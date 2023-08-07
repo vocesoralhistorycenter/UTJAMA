@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "J 381 Qualitative Interviewing " ] },
+    "summary": { "en": [ "Students enrolled in this class will be able to analyze oral history interviews on this platform." ] },
+    "items": [
+    ]
+}
